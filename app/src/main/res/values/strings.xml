@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EComMobile</string>
+    <string name="product_id_hint">Product ID</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="product_description_hint">Product Description</string>
+    <string name="product_price_hint">Product Price</string>
+    <string name="loading_text">Loading...</string>
+    <string name="delete_product">Delete Product</string>
+    <string name="add_product">Add Product</string>
+    <string name="update_product">Update Product</string>
+</resources>
